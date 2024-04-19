@@ -1,0 +1,21 @@
+header{
+	height:50px;
+	background-color:red;
+}
+#wrapper{
+	height:100px;
+	display:flex;
+	justify-content:space-between;
+}
+#main{
+	width:60%;
+	background-color:green;
+}
+aside{
+	width:30%;
+    background-color:pink;
+}
+footer{
+	height:50px;
+    background-color:purple;
+}
